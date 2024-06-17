@@ -1,0 +1,14 @@
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Shape\bin\Debug\net8.0\Shape.exe
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Shape\bin\Debug\net8.0\Shape.deps.json
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Shape\bin\Debug\net8.0\Shape.runtimeconfig.json
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Shape\bin\Debug\net8.0\Shape.dll
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Shape\bin\Debug\net8.0\Shape.pdb
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Shape\obj\Debug\net8.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Shape\obj\Debug\net8.0\Shape.AssemblyInfoInputs.cache
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Shape\obj\Debug\net8.0\Shape.AssemblyInfo.cs
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Shape\obj\Debug\net8.0\Shape.csproj.CoreCompileInputs.cache
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Shape\obj\Debug\net8.0\Shape.dll
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Shape\obj\Debug\net8.0\refint\Shape.dll
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Shape\obj\Debug\net8.0\Shape.pdb
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Shape\obj\Debug\net8.0\Shape.genruntimeconfig.cache
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Shape\obj\Debug\net8.0\ref\Shape.dll
