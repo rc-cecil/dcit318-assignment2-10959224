@@ -1,0 +1,14 @@
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
