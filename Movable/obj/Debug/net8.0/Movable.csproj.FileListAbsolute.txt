@@ -1,0 +1,14 @@
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Movable\bin\Debug\net8.0\Movable.exe
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Movable\bin\Debug\net8.0\Movable.deps.json
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Movable\bin\Debug\net8.0\Movable.runtimeconfig.json
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Movable\bin\Debug\net8.0\Movable.dll
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Movable\bin\Debug\net8.0\Movable.pdb
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Movable\obj\Debug\net8.0\Movable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Movable\obj\Debug\net8.0\Movable.AssemblyInfoInputs.cache
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Movable\obj\Debug\net8.0\Movable.AssemblyInfo.cs
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Movable\obj\Debug\net8.0\Movable.csproj.CoreCompileInputs.cache
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Movable\obj\Debug\net8.0\Movable.dll
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Movable\obj\Debug\net8.0\refint\Movable.dll
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Movable\obj\Debug\net8.0\Movable.pdb
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Movable\obj\Debug\net8.0\Movable.genruntimeconfig.cache
+C:\Users\Robert Cecil Clottey\Documents\GitHub\dcit318-assignment2-10959224\Movable\obj\Debug\net8.0\ref\Movable.dll
